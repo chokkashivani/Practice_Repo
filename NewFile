@@ -3,4 +3,7 @@ HI, Hello, welcome
 
 class welcome{
 
+int i=0;
+
+
 }
