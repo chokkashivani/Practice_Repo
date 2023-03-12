@@ -5,5 +5,8 @@ class welcome{
 
 int i=0;
 
+//task-2 changes
+
+b=20
 
 }
